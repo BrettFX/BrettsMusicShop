@@ -1,0 +1,34 @@
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\bin\Debug\BrettsMusicShop.exe.config
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmAdminLogIn.resources
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmBrettsMusicShop.resources
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmGuestSignIn.resources
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmMemberSignIn.resources
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.Resources.resources
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmSignUp.resources
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.vbproj.GenerateResource.Cache
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.xml
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\bin\Debug\BrettsMusicShop.exe
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\bin\Debug\BrettsMusicShop.pdb
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\bin\Debug\BrettsMusicShop.xml
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.exe
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.pdb
+C:\Users\brett\Desktop\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.vbprojResolveAssemblyReference.cache
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\bin\Debug\BrettsMusicShop.exe
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\bin\Debug\bin\Debug\Res\BrettsMusicShopDatabase.mdb
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\bin\Debug\BrettsMusicShop.exe.config
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmAdminLogIn.resources
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmBrettsMusicShop.resources
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmDatabaseManager.resources
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmDatabaseTotals.resources
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmCustomerSignIn.resources
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.Resources.resources
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmSignUp.resources
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmStore.resources
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.vbproj.GenerateResource.Cache
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.exe
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.xml
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.pdb
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\bin\Debug\BrettsMusicShop.pdb
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\bin\Debug\BrettsMusicShop.xml
+C:\Users\Brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.vbprojResolveAssemblyReference.cache
+C:\Users\brett\Google Drive\Documents\UMBC\Courses\Fall_2016\IS_246_VB\Projects\TermProject\BrettsMusicShop\BrettsMusicShop\obj\Debug\BrettsMusicShop.frmDatabaseTransactions.resources
