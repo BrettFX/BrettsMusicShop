@@ -5,7 +5,7 @@ This program was created for a project in a Visual Basic course at University Ma
 ###Grade: 100%
 
 The mainline algorithm for this program is to stage a real-life music shop website in which customers are able to browse
-through various instruments. The instruments are partitioned into four different categories: woodwind, strings, brazz, and percussion.
+through various instruments. The instruments are partitioned into four different categories: woodwind, strings, brass, and percussion.
 Customers are granted the ability to sign up and be added to a Microsoft Access Database. Various customer data is gathered such as 
 information regarding the customer and transactional data in order to extrapolate favorite items based on frequent purchasing trends.
 
